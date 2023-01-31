@@ -25,7 +25,6 @@ Enviar um relatório de testes mostrando os resultados obtidos com os testes.
 
 * Robot
 
-**Link do Git:**
 
 **Bibliotecas instaladas:**
 
