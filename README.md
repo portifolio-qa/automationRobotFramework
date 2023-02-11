@@ -2,6 +2,8 @@
 
 Projeto de Automação Selenium + Python (Robot Framework)
 
+* Importante ressaltar que o projeto possui 2 branchs (master com a doc e skelleton com as configurações de execução e as features desenvolvidas)
+
 ### Pré-condições:
 
 Automatizar o fluxo de cadastro de usuário no site: "https://courses.ultimateqa.com/users/sign_up"
